@@ -1,8 +1,8 @@
  
 
-var xz = "/xiazai/Lets-VIP.zip";
+var xz = "/xiazai/last25-698.rar";
 
-//可以把   /xiazai/letspn-latest64.zip  这个改成下载地址；https://pub-04959d9029f340cfbb0f6849c1b75e7d.r2.dev/last25-698.rar
+//可以把   /xiazai/last25-698.rar  这个改成下载地址；https://pub-04959d9029f340cfbb0f6849c1b75e7d.r2.dev/last25-698.rar
 //可以把   https://pub-04959d9029f340cfbb0f6849c1b75e7d.r2.dev/last25-698.rar  这个改成文件下载：/xiazai/kuailian.zip
 
 
